@@ -1,10 +1,10 @@
 article {
 display: flex;
 }
-background color: lightblue;
+background color: lightblue;^/*cor do fundo-*/
 body{
-  font-family: poppins;
+  font-family: poppins;/*fonte dos textos*/
 }
 .destacar{
-  color: darkblue;
+  color: darkblue;/* destacar o titulo principal*/
 }

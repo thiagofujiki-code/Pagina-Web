@@ -7,6 +7,10 @@ body{
 }
 .destacar{
   color: darkblue;/* destacar o titulo principal*/
+  display: inline-block;     /* Faz a faixa ter o tamanho exato do texto */
+  background-color: #white; /* Cor de fundo da faixa */ 
+  padding: 8px 12px;         /* Altura e largura da faixa em volta do texto */
+  border-radius: 4px;
 }
 .galeria {
   display: flex;
@@ -18,10 +22,4 @@ body{
   width: 48%;
   height: auto;
 }
-.destacar {
-  display: inline-block;     /* Faz a faixa ter o tamanho exato do texto */
-  background-color: #white; /* Cor de fundo da faixa */
-  color: #white;            /* Cor da fonte */
-  padding: 8px 12px;         /* Altura e largura da faixa em volta do texto */
-  border-radius: 4px;
-}
+

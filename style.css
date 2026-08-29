@@ -6,11 +6,12 @@ body{
   font-family: poppins;/*fonte dos textos*/
 }
 .destacar{
-  color: darkblue;/* destacar o titulo principal*/
-  display: inline-block;     /* Faz a faixa ter o tamanho exato do texto */
-  background-color: #white; /* Cor de fundo da faixa */ 
+  background-color>: white;
   padding: 8px 12px;         /* Altura e largura da faixa em volta do texto */
-  border-radius: 4px;
+  text-align: center;
+}
+.destacar h1{
+  color: darkblue;/* destacar o titulo principal*/
 }
 .galeria {
   display: flex;

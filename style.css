@@ -8,3 +8,13 @@ body{
 .destacar{
   color: darkblue;/* destacar o titulo principal*/
 }
+.galeria {
+  display: flex;
+  justify-content: space-between;
+  gap: 15px;
+}
+
+.galeria img {
+  width: 48%;
+  height: auto;
+}

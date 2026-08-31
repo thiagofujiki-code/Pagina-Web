@@ -6,7 +6,7 @@ body{
   background-color: lightgreen;/*cor do fundo-*/
 }
 .destacar{
-  background-color: lightgreen;
+  color: green;
   padding: 8px 12px;         /* Altura e largura da faixa em volta do texto */
   text-align: center;
 }

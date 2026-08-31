@@ -1,7 +1,7 @@
 article {
 display: flex;
 }
-background color: lightblue;^/*cor do fundo-*/
+background color: lightgreen;^/*cor do fundo-*/
 body{
   font-family: poppins;/*fonte dos textos*/
 }
@@ -11,7 +11,7 @@ body{
   text-align: center;
 }
 .destacar h1{
-  color: darkblue;/* destacar o titulo principal*/
+  color: darkgreen;/* destacar o titulo principal*/
 }
 .galeria {
   display: flex;

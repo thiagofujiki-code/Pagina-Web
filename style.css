@@ -10,7 +10,7 @@ body{
   padding: 8px 12px;         /* Altura e largura da faixa em volta do texto */
   text-align: center;
 }
-.destacar h1{
+h1{
   color: darkgreen;/* destacar o titulo principal*/
 }
 .galeria {

@@ -3,10 +3,10 @@ display: flex;
 }
 
 img, iframe, video {
-  max-width: 100%;
-  height: auto;
+  display: flex;
+  gap: 16px;
   flex-direction: column;
-  gap: 15px;
+  align-items: center;
 }
 
 body{

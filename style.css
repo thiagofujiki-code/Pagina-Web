@@ -1,6 +1,12 @@
 article {
 display: flex;
 }
+
+img, iframe, video {
+  max-width: 100%;
+  height: auto;
+}
+
 body{
   font-family: poppins;/*fonte dos textos*/
   background-color: lightgreen;/*cor do fundo-*/

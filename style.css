@@ -5,6 +5,8 @@ display: flex;
 img, iframe, video {
   max-width: 100%;
   height: auto;
+  flex-direction: column;
+  gap: 15px;
 }
 
 body{

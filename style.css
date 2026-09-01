@@ -4,6 +4,7 @@ display: flex;
 
 img, iframe, video {
   display: flex;
+  flex-wrap: wrap; /*desce as fotos e vídeos se não couberem na largura da tela*/
   gap: 16px;
   flex-direction: column;
   align-items: center;
